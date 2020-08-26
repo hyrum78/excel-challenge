@@ -1,2 +1,2 @@
 # excel-challenge
-homework 01 UCI bootcamp
+challenge 01 UCI bootcamp
